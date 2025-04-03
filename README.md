@@ -1,6 +1,6 @@
 # PEC1 - Análisis de datos metabolómicos
 
-Este repositorio contiene el trabajo de la PEC1 del Máster de Bioinformática y Bioestadística de la UOC, centrado en el análisis de datos metabolómicos de ratones diabéticos y controles tratados con metformina.
+Este repositorio contiene el trabajo de la PEC1 de la asignatura de Datos Ómicos del Máster de Bioinformática y Bioestadística de la UOC, centrado en el análisis de datos metabolómicos de ratones diabéticos y controles tratados con metformina.
 
 ## Contenido
 
